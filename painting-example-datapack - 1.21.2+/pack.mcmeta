@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Provides an example painting variant for 1.21.2+",
+    "pack_format": 61,
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 61
+    }
+  }
+}

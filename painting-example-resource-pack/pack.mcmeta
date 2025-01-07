@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 34,
-    "description": "Provides an example painting variant"
+    "description": "Provides an example painting variant for 1.21+",
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 48
+    }
   }
 }
